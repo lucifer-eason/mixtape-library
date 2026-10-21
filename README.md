@@ -27,7 +27,7 @@ The supplied 318 / 312 / 308 numbers were not used as durations or page numbers 
 - Treat the analyses as drafts: revise into your own voice and connect them to your own listening and reading.
 - Quotations and printed pages currently use Matthew Ward, Vintage International, 1989: 3, 3, 103, 78, 122. Check every excerpt and page in your assigned book; translation and pagination vary.
 - The reference copy is linked on the website. Quotation excerpts are intentionally short; expand from your own book if your teacher needs more context.
-- Full copyrighted song lyrics are not distributed. The song pages link to the music platforms; user-supplied lyrics can be entered in the `lyrics` field. Dramamine is marked instrumental; Fake Heartfelt Words has an explicit title-based interpretation because lyrics were not verified.
+- The user-supplied lyrics for Bohemian Rhapsody, Now and Then, and listen before i go are included, with original line breaks in a scrollable panel. Further user-supplied lyrics can be entered in the `lyrics` field. Dramamine is marked instrumental; Fake Heartfelt Words has an explicit title-based interpretation because lyrics were not verified.
 - The last track addresses suicide; its interpretation distinguishes that from Meursault’s imposed death sentence. The booklet discusses the unnamed murder victim and does not excuse Meursault’s violence.
 
 ## Music behavior
